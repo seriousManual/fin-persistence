@@ -1,6 +1,6 @@
 {
   "name": "fin-persistence",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "cares for loading, creating and saving resources",
   "main": "./lib/Persistence.js",
   "scripts": {
