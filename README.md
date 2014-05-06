@@ -1,0 +1,1 @@
+# fin-persistence [![Build Status](https://travis-ci.org/zaphod1984/fin-persistence.png)](https://travis-ci.org/zaphod1984/fin-persistence)
